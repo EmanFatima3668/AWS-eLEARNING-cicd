@@ -1,0 +1,39 @@
+#header-text-3 .bg {
+    background-image: url('../images//uploaded/2/man.jpg');
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-size: auto;
+    opacity: 1;
+}
+
+#header-text-3 .bg-wrap {}#desc-img-text-4 .bg-wrap {
+    background-color: #F4F5F6;
+}
+#benefits-3col-3 .bg-wrap {
+    background: #ffffff;
+}
+
+#benefits-3col-3 .bg {
+	background-position: left top;
+	background-size: cover;
+	background-image: url('../images/uploaded/2/m2.jpg');
+}#price-4col .bg-wrap {
+    background-color: #f4f5f6;
+}
+#contact-form-2 .bg {
+    background-position: center bottom;
+    background-size: cover;
+    opacity: 1;
+    background-image: url('../images/bg-73.jpg');
+}
+#action-text-timer .bg-wrap {
+    background-color: #9a2b2b;
+}
+
+#action-text-timer .bg {
+    background-image: url('../images/bg-71.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    opacity:0.075;
+}
